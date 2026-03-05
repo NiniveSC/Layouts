@@ -16,6 +16,12 @@ body {
 
 .flex{
     display: flex;
+
+}
+
+.flexstart{
+    display: flex;
+    align-items: flex-start;
 }
 
 .red{
