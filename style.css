@@ -1,5 +1,19 @@
-body{
+body {
     display: flex;
     align-items: flex-start;
 }
 
+.blue{
+    background-color: rgb(63, 79, 219);
+    padding: 20px;
+}
+
+.yellow{
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+}
+
+.flex{
+    display: flex;
+}
