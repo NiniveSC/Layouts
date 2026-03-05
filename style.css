@@ -17,3 +17,9 @@ body {
 .flex{
     display: flex;
 }
+
+.red{
+    background-color: yellow;
+    padding-right: 80px;
+}
+
